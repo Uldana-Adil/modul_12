@@ -1,0 +1,7 @@
+C:\Users\laptop\source\repos\M_12pr\M_12pr\bin\Debug\M_12pr.exe.config
+C:\Users\laptop\source\repos\M_12pr\M_12pr\bin\Debug\M_12pr.exe
+C:\Users\laptop\source\repos\M_12pr\M_12pr\bin\Debug\M_12pr.pdb
+C:\Users\laptop\source\repos\M_12pr\M_12pr\obj\Debug\M_12pr.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\M_12pr\M_12pr\obj\Debug\M_12pr.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\M_12pr\M_12pr\obj\Debug\M_12pr.exe
+C:\Users\laptop\source\repos\M_12pr\M_12pr\obj\Debug\M_12pr.pdb
